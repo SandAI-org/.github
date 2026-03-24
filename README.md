@@ -11,3 +11,5 @@ We embrace open source and hope to drive progress through open collaboration, ma
 - [MAGI-1](https://github.com/SandAI-org/MAGI-1): Autoregressive video generation at scale. We released our [technical report](https://static.magi.world/static/files/MAGI_1.pdf), pre-trained weights and inference code.
   
 - [MagiAttention](https://github.com/SandAI-org/MagiAttention): A distributed attention towards linear scalability for ultra-long context, heterogeneous data training.
+
+- [MagiCompiler](https://github.com/SandAI-org/MagiCompiler): A plug-and-play compiler that delivers free-lunch optimizations for both inference and training.
