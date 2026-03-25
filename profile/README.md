@@ -1,6 +1,6 @@
-# Welcome to Sand AI
+# Welcome to Sand.ai
 
-[Sand AI](https://sand.ai/) is an artificial intelligence research and product company. Our mission is to advance AI to benefit everyone.
+[Sand.ai](https://sand.ai/) is an artificial intelligence research and product company. Our mission is to advance AI to benefit everyone.
 We embrace open source and hope to drive progress through open collaboration, making cutting-edge Al accessible to everyone.
 
 🌟🌟🌟 Join us to strive for AGI! Email: [hr@sand.ai](mailto:hr@sand.ai) .
